@@ -71,7 +71,7 @@ Where traditional design attempts to <strong>solve</strong> problems, speculativ
 <strong>Guest:</strong> Stacie Williams
 #### Readings
 - Shelley Streeby. ​Imagining the Future of Climate Change: World-Making through Science Fiction and Activism.​ Chapter 2.
-- Octavia Butler, selections from Parable of the Sower
+- [Octavia Butler, selections from Parable of the Sower](assets/pdf/week_7_butler_parable_of_the_sower.pdf)
 - [Sun Ra, selections from Alton Abraham Collection](https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.ABRAHAMA)
 
 <hr/>
